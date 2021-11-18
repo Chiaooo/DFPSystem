@@ -54,6 +54,6 @@ http://vis-www.cs.umass.edu/lfw/
 
 ## 鸣谢
 
-towrads data science Author:Dustin Stewart
+towards `data science` Author:`Dustin Stewart`
 
 如果对你有帮助，请点个Star!!!!!
